@@ -1,0 +1,2 @@
+how to use "git push" on a gitted repository 
+how to use "git checkout <commit's number>" and after that, manipulating that commit
