@@ -1,3 +1,3 @@
-how to use "git push" on a initialized repository 
+how to use "git push" on an initialized repository 
 how to use "git checkout <commit's number>" and after that, manipulating that commit
 if possible, to explain how works and when I'll use the git remote command
